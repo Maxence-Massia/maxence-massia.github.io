@@ -1,13 +1,33 @@
 ---
 layout: home
-title: Portfolio BTS SIO – Maxence Massia
 ---
 
 # 👋 Portfolio BTS SIO – Maxence Massia
 
-Étudiant en **BTS SIO option SISR**. Ce site présente mes projets, labs et compétences.
+Bienvenue sur mon portfolio.  
+Je suis étudiant en **BTS SIO option SISR**, spécialisé en systèmes et réseaux.
 
-## 🏢 Projets
+---
 
-- **Infrastructure M2L** : Proxmox, routage Linux, VLAN Cisco, Wi-Fi PoE
-- **Monitoring** : Prometheus + Grafana + node exporter (VM Linux sur PVE1)
+## 🏢 Projets principaux
+
+### Infrastructure M2L
+Mise en place d’une infrastructure virtualisée complète avec Proxmox, routage Linux, VLAN Cisco et Wi-Fi professionnel.
+
+### Monitoring Prometheus & Grafana
+Déploiement d’une solution de supervision pour surveiller les ressources système et les services.
+
+---
+
+## 🧪 Travaux pratiques
+
+- Administration Linux
+- Configuration réseau Cisco
+- Mise en place d’infrastructures virtualisées
+- Supervision des systèmes
+
+---
+
+## 🎯 Objectif
+
+Développer mes compétences en administration systèmes et réseaux afin de travailler dans le domaine de l’infrastructure informatique.
