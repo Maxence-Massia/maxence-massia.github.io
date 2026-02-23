@@ -16,7 +16,8 @@ Travaux pratiques réalisés sous Linux :
 - Liens symboliques
 
 ➡️ Accéder aux labs :  
-https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Lab_Linux
+[Voir les labs Linux](https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Lab_Linux)
+
 
 ---
 
@@ -30,4 +31,4 @@ Configuration d’équipements réseau Cisco :
 - Configuration Wi-Fi Cisco
 
 ➡️ Accéder aux labs :  
-https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Cisco
+[Voir les labs Cisco](https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Cisco)
