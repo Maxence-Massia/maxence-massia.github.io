@@ -11,25 +11,23 @@ Bienvenue sur mon portfolio : projets, labs et compétences.
 
 ---
 
-## 🏢 Projets principaux
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-top:18px;">
+  <a href="/categories/projets/" style="text-decoration:none;">
+    <img src="/assets/img/cards/m2l.svg" alt="Projet M2L" style="width:100%; border-radius:18px;" />
+  </a>
 
-### Infrastructure M2L
-- Proxmox (2 hyperviseurs), routage Ubuntu, VLAN Cisco, Wi-Fi Cisco en PoE  
-➡️ Voir : **Catégorie → Projets**
+  <a href="/categories/projets/" style="text-decoration:none;">
+    <img src="/assets/img/cards/monitoring.svg" alt="Monitoring" style="width:100%; border-radius:18px;" />
+  </a>
 
-### Monitoring (Prometheus / Grafana)
-- Prometheus + Grafana + node exporter sur VM Linux (PVE1)  
-➡️ Voir : **Catégorie → Projets**
+  <a href="/labs/" style="text-decoration:none;">
+    <img src="/assets/img/cards/labs-linux.svg" alt="Labs Linux" style="width:100%; border-radius:18px;" />
+  </a>
 
----
-
-## 🧪 Labs
-
-- 🐧 **Linux** : permissions, partitionnement, quotas, liens  
-➡️ [Voir les Labs Linux](https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Lab_Linux)
-
-- 🌐 **Cisco** : switch, management IP, reset routeur, Wi-Fi  
-➡️ [Voir les Labs Cisco](https://github.com/Maxence-Massia/Portfolio/tree/main/Cours/Cisco)
+  <a href="/labs/" style="text-decoration:none;">
+    <img src="/assets/img/cards/labs-cisco.svg" alt="Labs Cisco" style="width:100%; border-radius:18px;" />
+  </a>
+</div>
 
 ---
 
