@@ -11,22 +11,24 @@ Bienvenue sur mon portfolio : projets, labs et compétences.
 
 ---
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px; margin-top:18px;">
-  <a href="/categories/projets/" style="text-decoration:none;">
-    <img src="/assets/img/cards/m2l.svg" alt="Projet M2L" style="width:100%; border-radius:18px;" />
-  </a>
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; margin-top:20px;">
 
-  <a href="/categories/projets/" style="text-decoration:none;">
-    <img src="/assets/img/cards/monitoring.svg" alt="Monitoring" style="width:100%; border-radius:18px;" />
-  </a>
+<a href="/categories/projets/" style="display:block;">
+<img src="/assets/img/cards/m2l.svg" alt="Projet M2L" style="width:100%; border-radius:16px; display:block;">
+</a>
 
-  <a href="/labs/" style="text-decoration:none;">
-    <img src="/assets/img/cards/labs-linux.svg" alt="Labs Linux" style="width:100%; border-radius:18px;" />
-  </a>
+<a href="/categories/projets/" style="display:block;">
+<img src="/assets/img/cards/monitoring.svg" alt="Monitoring" style="width:100%; border-radius:16px; display:block;">
+</a>
 
-  <a href="/labs/" style="text-decoration:none;">
-    <img src="/assets/img/cards/labs-cisco.svg" alt="Labs Cisco" style="width:100%; border-radius:18px;" />
-  </a>
+<a href="/labs/" style="display:block;">
+<img src="/assets/img/cards/labs-linux.svg" alt="Labs Linux" style="width:100%; border-radius:16px; display:block;">
+</a>
+
+<a href="/labs/" style="display:block;">
+<img src="/assets/img/cards/labs-cisco.svg" alt="Labs Cisco" style="width:100%; border-radius:16px; display:block;">
+</a>
+
 </div>
 
 ---
