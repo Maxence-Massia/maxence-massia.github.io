@@ -5,7 +5,7 @@ categories: [Veille, SISR]
 tags: [Méthodologie, Zero-Trust, Sécurité]
 pin: true
 image:
-  path: /assets/img/veille/presentation.png
+  path: /assets/img/veille/licensed-image.jpg
   alt: "Architecture de sécurité Zero Trust"
 ---
 
