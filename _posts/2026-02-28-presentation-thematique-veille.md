@@ -1,7 +1,7 @@
 ---
 title: "Méthodologie et Thématique de Veille : Le modèle Zero Trust"
 date: 2026-03-01 09:00:00 +0100
-categories: [Veille, SISR]
+categories: [Veille]
 tags: [Méthodologie, ZeroTrust, Sécurité]
 pin: true
 ---
