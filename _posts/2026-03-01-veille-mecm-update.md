@@ -4,7 +4,7 @@ date: 2026-03-01 18:00:00 +0100
 categories: [Veille]
 tags: [MECM, SCCM, Microsoft]
 image:
-  path: /assets/img/veille/mecm-update.png
+  path: /assets/img/veille/BANSCCM.png
   alt: Mise à jour MECM
 ---
 
