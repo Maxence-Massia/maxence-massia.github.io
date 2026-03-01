@@ -1,20 +1,31 @@
 ---
-title: "Méthodologie et Thématique de Veille : Le modèle Zero Trust"
-date: 2026-03-01 09:00:00 +0100
+title: "Ma Thématique de Veille : Le modèle Zero Trust"
+date: 2026-03-01 10:00:00 +0100
 categories: [Veille]
-tags: [Méthodologie, ZeroTrust, Sécurité]
+tags: [Méthodologie, Zero-Trust, Sécurité]
 pin: true
+image:
+  path: /assets/img/veille/licensed-image.jpg
+  alt: "Architecture de sécurité Zero Trust"
 ---
 
-## 🎯 Ma Thématique : Le Zero Trust
-Dans le cadre de mon **BTS SIO SISR**, j'ai choisi d'étudier le modèle **Zero Trust**. 
+## 🎯 Pourquoi le Zero Trust ?
+Dans le cadre de mon **BTS SIO SISR**, j'ai choisi de concentrer mes recherches sur le modèle **Zero Trust**. À l'heure où les cybermenaces évoluent et où le télétravail se généralise, la sécurité périmétrique classique (le "château fort") ne suffit plus.
 
-### Pourquoi ce choix ?
-Face à l'augmentation des cyberattaques et du télétravail, la sécurité classique (firewall) ne suffit plus. Le Zero Trust impose de vérifier chaque accès, qu'il vienne de l'intérieur ou de l'extérieur du réseau.
+### 🔍 Ma problématique
+> "Comment assurer la sécurité des données et des accès dans une infrastructure moderne où l'utilisateur n'est plus forcément à l'intérieur des murs de l'entreprise ?"
 
-## 🛠️ Ma Méthodologie
-Conformément à la fiche de **H3 HITEMA**, j'applique un cycle de veille structuré :
+---
 
-1. **Collecte :** Utilisation de **Feedly** pour centraliser les flux RSS (ANSSI, CERT-FR, Le Monde Informatique).
-2. **Traitement :** Analyse des articles et rédaction de synthèses techniques.
-3. **Diffusion :** Partage des connaissances via ce portfolio GitHub.
+## 🛠 Ma Méthodologie (Référentiel E5)
+Pour répondre aux exigences de ma formation à **H3 HITEMA**, j'utilise une démarche structurée :
+
+1. **Collecte :** Utilisation de [Feedly](https://feedly.com) pour agréger les flux RSS du **CERT-FR**, de **L'ANSSI** et du **Monde Informatique**.
+2. **Analyse et synthèse :** Tri des informations par pertinence et rédaction de rapports techniques.
+3. **Diffusion :** Publication de ma veille sur ce portfolio professionnel.
+
+---
+
+## 📂 Mes rapports techniques
+Retrouvez ci-dessous mes analyses détaillées :
+* [🛡️ Rapport #1 : Alerte CERT-FR - Adobe Commerce]({{ site.baseurl }}/posts/rapport-veille-cert-fr-adobe/)
