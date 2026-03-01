@@ -11,7 +11,7 @@ categories: [Veille, SISR]
 tags: [Méthodologie, Zero-Trust, Sécurité]
 pin: true # Cet article restera toujours en haut de ta section veille
 image:
-  path: /assets/img/veille/avocat-contentieux-informatique-32.jpg
+  path: /assets/img/veille/Sans titre.png
   alt: "Présentation de la veille informatique"
 ---
 
