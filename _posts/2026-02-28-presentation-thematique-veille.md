@@ -1,11 +1,11 @@
 ---
 title: "Ma Thématique de Veille : Le modèle Zero Trust"
 date: 2026-03-01 10:00:00 +0100
-categories: [Veille]
+categories: [Veille, SISR]
 tags: [Méthodologie, Zero-Trust, Sécurité]
 pin: true
 image:
-  path: /assets/img/veille/licensed-image.jpg
+  path: /assets/img/veille/presentation.png
   alt: "Architecture de sécurité Zero Trust"
 ---
 
@@ -26,6 +26,15 @@ Pour répondre aux exigences de ma formation à **H3 HITEMA**, j'utilise une dé
 
 ---
 
-## 📂 Mes rapports techniques
-Retrouvez ci-dessous mes analyses détaillées :
-* [🛡️ Rapport #1 : Alerte CERT-FR - Adobe Commerce]({{ site.baseurl }}/posts/rapport-veille-cert-fr-adobe/)
+---
+## 📂 Accéder à mes rapports techniques
+
+Cliquez sur la miniature ci-dessous pour consulter mon analyse détaillée :
+
+| Dernier rapport : Alerte CERT-FR Adobe |
+| :---: |
+| [![Lire le rapport #1](/assets/img/veille/photo-1563986768609-322da13575f3.jpg)]({{ site.baseurl }}/posts/rapport-veille-cert-fr-adobe/) |
+| *Analyse d'une menace critique (Février 2026)* |
+
+---
+*D'autres rapports seront ajoutés prochainement en fonction de l'actualité de ma veille.*
