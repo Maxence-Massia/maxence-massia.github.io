@@ -1,7 +1,9 @@
 ---
+layout: category
 title: Veille
-icon: fas fa-rss
-order: 3
+icon: fas fa-microscope
+category: Veille
+order: 4
 ---
 
 ---
