@@ -5,15 +5,14 @@ icon: fas fa-microscope
 category: Veille
 order: 4
 ---
-
 ---
 title: "Méthodologie et Thématique de Veille : Le modèle Zero Trust"
 date: 2026-03-01 10:00:00 +0100
 categories: [Veille, SISR]
 tags: [Méthodologie, Zero-Trust, Sécurité]
-pin: true # Cet article restera toujours en haut de ta section veille
+pin: true
 image:
-  path: /assets/img/veille/Sans titre.png
+  path: /assets/img/veille/presentation.png
   alt: "Présentation de la veille informatique"
 ---
 
