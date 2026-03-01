@@ -1,6 +1,6 @@
 ---
 title: "Veille #1 – Mise à jour Microsoft Endpoint Configuration Manager"
-date: 2026-03-01 18:00:00 +0100
+date: 2026-02-28 18:00:00 +0100
 categories: [Veille]
 tags: [MECM, SCCM, Microsoft]
 image:
