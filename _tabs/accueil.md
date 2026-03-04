@@ -7,7 +7,7 @@ order: 0
 # 👋 Portfolio BTS SIO – Maxence Massia
 
 Étudiant en **BTS SIO option SISR**, orienté systèmes et réseaux.  
-Bienvenue sur mon portfolio : projets, labs et compétences.
+Bienvenue sur mon portfolio : A propo, Entreprise projet.
 
 ---
 | Entreprise | Poste & Réalisation |
