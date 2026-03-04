@@ -15,5 +15,5 @@ Le ministère des Armées et des Anciens combattants intervient également dans 
 
 ---
 ### 🔗 En savoir plus
-👉 [Découvrir le détail de mes missions techniques]({{ site.baseurl }}/posts/missions-ministere)
+[👉 Découvrir le détail de mes missions techniques]({% post_url 2026-03-05-missions-ministere %})
 ---
