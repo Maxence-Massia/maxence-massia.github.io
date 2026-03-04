@@ -12,7 +12,7 @@ Bienvenue sur mon portfolio : projets, labs et compétences.
 ---
 | Entreprise | Poste & Réalisation |
 | :--- | :--- |
-| ![Ministère des Armées](https://via.placeholder.com/150x80/003366/FFFFFF?text=MINISTERE) | **🏢 Ministère des Armées** <br> Poste : Technicien Support <br> [👉 Lire l'article]({{ site.baseurl }}/posts/ministere-des-armees/) |
+| [![Ministère des Armées](/assets/img/entreprise/ministere-card.png)]({{ site.baseurl }}/posts/ministere-des-armees/) | **🏢 Ministère des Armées** <br> Poste : Technicien Support / CNAD <br> Réalisation : Support technique et infrastructure <br> [👉 Voir le détail de mes missions]({{ site.baseurl }}/posts/ministere-des-armees/) |
 
 ---
 
