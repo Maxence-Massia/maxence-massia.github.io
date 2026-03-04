@@ -13,7 +13,7 @@ Outre ses attributions en matière de défense, le ministère est chargé de la 
 
 Le ministère des Armées et des Anciens combattants intervient également dans des missions de service public, au quotidien ou dans l’urgence, sur le territoire national et à l’étranger.
 
----
+ ---
 ### 🔗 En savoir plus
-[👉 Découvrir le détail de mes missions techniques]({% posts_url 2026-03-05-missions-ministere %})
----
+👉 [Découvrir le détail de mes missions techniques]({{ site.baseurl }}/posts/missions-ministere/)
+--- 
