@@ -16,13 +16,13 @@ Bienvenue sur mon portfolio : projets, labs et compétences.
   <!-- Card M2L -->
   <div style="border-radius:18px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,.18);">
     <a href="/posts/m2l/" style="display:block;">
-      <img src="/assets/img/cards/m2l.svg" alt="Projet M2L" style="width:100%; display:block;">
+      <img src="/assets/img/cards/m2l.svg" alt="Entreprise" style="width:100%; display:block;">
     </a>
     <div style="padding:12px 14px;">
       <div style="font-weight:700;">
-        <a href="/posts/m2l/" style="text-decoration:none;">🏢 Infrastructure M2L</a>
+        <a href="/posts/m2l/" style="text-decoration:none;">🏢 Ministère des armées</a>
       </div>
-      <div style="opacity:.8; font-size:.95rem;">Proxmox • VLAN • Linux • Wi-Fi PoE</div>
+      <div style="opacity:.8; font-size:.95rem;">Poste • Réalisations</div>
     </div>
   </div>
 
