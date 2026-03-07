@@ -9,7 +9,7 @@ tags: [Monitoring, Prometheus, Grafana, Linux]
 
 Dans le cadre de l’infrastructure M2L, j’ai mis en place une solution de supervision afin de surveiller l’état des machines et des services.
 
-## 🖥️ Installation
+## 🖥️ [Installation]({{ site.baseurl }}/posts/projet-monitoring/)
 
 Le monitoring est hébergé sur une machine virtuelle Linux située sur le serveur **PVE1**.
 
