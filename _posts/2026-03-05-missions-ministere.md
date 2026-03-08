@@ -9,8 +9,13 @@ tags: [AD,Déploiment_W11]
 Dans le cadre de mon alternance au sein du **CNAD**, j'ai été chargé du ticketing de l'esemble du plateau Balard (Paris) et des VIP-VOP THA
 
 ### 📋 Mes principales missions :
-1. **Ajout de droits (Ticketing) :**
-| [![Documentation Ajout de Droits](/assets/img/entreprise/ticketing-thumb.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur)  <br> Utilisation de l'outil de gestion pour traiter les demandes des utilisateurs. <br> [📂 Voir la documentation technique sur GitHub](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur) |
+
+1. **🔑 Administration Active Directory (AD)**
+
+| Réalisation | Description technique |
+| :--- | :--- |
+| [![Documentation Active Directory](/assets/img/entreprise/ticketing-thumb.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur) | **Gestion des utilisateurs et des droits** <br> Administration des comptes utilisateurs au sein de l'annuaire Active Directory. J'ai géré les droits d'accès et l'organisation des objets (OU) pour répondre aux demandes de ticketing. <br> [📂 Voir la documentation technique](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur) |
+
 2. **Installation et configuration Windows 11:**
 
 | Réalisation | Description technique |
