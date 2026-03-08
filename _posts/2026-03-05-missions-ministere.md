@@ -13,6 +13,4 @@ Dans le cadre de mon alternance au sein du **CNAD**, j'ai été chargé du ticke
 | [![Documentation Ajout de Droits](/assets/img/entreprise/ticketing-thumb.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur)  <br> Utilisation de l'outil de gestion pour traiter les demandes des utilisateurs. <br> [📂 Voir la documentation technique sur GitHub](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Ajout_Droit_Utilisateur) |
 2. **Déploiement de postes :** - Masterisation et configuration des postes de travail.
    - Installation des logiciels métiers spécifiques.
-3. **Administration réseau (si applicable) :**
-   - Brassage de prises réseaux.
-   - Configuration de VLANs simples.
+3. **Administration réseau :**
