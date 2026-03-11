@@ -27,7 +27,6 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 ![Admin](/assets/img/entreprise/Admin.png){: .left w="250" .mr-3 }
 **Gestion des utilisateurs et du réseau**
 Travaux sur la gestion des utilisateurs et des groupes, incluant la création et la gestion complète des comptes. J'ai également assuré la configuration et l'administration réseau pour garantir l'accès aux ressources.
-[👉 Voir le détail technique](/posts/missions-ministere/)
 
 <br clear="left"/>
 
@@ -37,7 +36,6 @@ Travaux sur la gestion des utilisateurs et des groupes, incluant la création et
 ![Déploiement](/assets/img/entreprise/gestion.png){: .left w="250" .mr-3 }
 **Gestion du parc applicatif**
 Mise en œuvre de l'installation à distance des logiciels pour optimiser les interventions. J'ai également assuré le déploiement, la mise à jour régulière et la gestion complète du cycle de vie des logiciels.
-[👉 Voir le détail technique](/posts/missions-ministere/)
 
 <br clear="left"/>
 
@@ -47,7 +45,6 @@ Mise en œuvre de l'installation à distance des logiciels pour optimiser les in
 ![Support](/assets/img/entreprise/chiffrement.png){: .left w="250" .mr-3 }
 **Assistance technique et sécurité**
 Prise en charge du support aux utilisateurs et réinitialisation des mots de passe. J'ai assuré la gestion du chiffrement des disques (BitLocker) ainsi que l'administration avancée et l'évolution des systèmes.
-[👉 Voir le détail technique](/posts/missions-ministere/)
 
 <br clear="left"/>
 
