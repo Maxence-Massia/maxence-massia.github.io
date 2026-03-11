@@ -17,8 +17,9 @@ ce portfolio permet de présenter mes compétences, projet est mon apprentissage
 Voici plus d'informations sur le ministère des armées et mes missions.
 [👉 Lire l'article]({{ site.baseurl }}/posts/ministere-des-armees/)
 
+<br clear="left"/>
 
-{: .clearfix }
+---
 
 ## 🧠 Compétences
 Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration système, gestion des utilisateurs et déploiement de logiciels. Voici un aperçu des outils et technologies que j’ai utilisés :
