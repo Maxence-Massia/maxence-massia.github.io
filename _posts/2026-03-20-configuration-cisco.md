@@ -1,6 +1,6 @@
 ---
 title: TP Cisco (IOS)
-date: 2026-03-20 09:00:00 +0100
+date: 2026-03-14 09:00:00 +0100
 categories: [Formation, Reseau]
 tags: [Cisco, IOS, Switch, Router]
 ---
