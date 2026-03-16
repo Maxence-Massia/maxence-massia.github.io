@@ -1,7 +1,5 @@
 ---
-title: Accueil
-icon: fas fa-home
-order: 0
+layout: page
 ---
 
 # 👋 Portfolio BTS SIO – Maxence Massia
