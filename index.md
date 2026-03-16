@@ -1,8 +1,5 @@
 ---
 layout: page
-title: Accueil
-icon: fas fa-home
-order: 1
 ---
 
 <div style="text-align: center; padding: 2rem 0;">
