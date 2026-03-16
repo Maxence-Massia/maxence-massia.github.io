@@ -10,7 +10,7 @@ tags: [Cisco, IOS, Switch, Router]
 Ce post regroupe les TP faits en première et deuxième année de BTS.
 
 ---
-### 📁 [Configuring Initial Switch Settings](/assets/Lab_Cisco_Packet_Tracer/4-Lab-Adressage-IP_cidr)
+### 📁 [Configuring Initial Switch Settings](/assets/Lab_Cisco_Packet_Tracer/4-Lab-Adressage-IP_cidr/)
 
 Lab réalisé sur Packet Tracer permettant de configurer les paramètres initiaux d’un commutateur Cisco : sécurisation des accès CLI, configuration des mots de passe, bannière MOTD et sauvegarde de la configuration en NVRAM.
 
