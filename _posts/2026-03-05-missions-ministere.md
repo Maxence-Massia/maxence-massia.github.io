@@ -20,7 +20,7 @@ Dans le cadre de mon alternance au sein du **CNAD**, j'ai été chargé du ticke
 
 | Réalisation | Description technique |
 | :--- | :--- |
-| [![Documentation Déploiement W11](/assets/img/entreprise/w11-deploy-thumb.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/D%C3%A9ploiment_W11) | **Installation et configuration Windows 11** <br> Dans le cadre du renouvellement du parc informatique, j'ai procédé au déploiement de nouveaux postes via une solution de masterisation. <br> [📂 Voir la documentation technique](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/D%C3%A9ploiment_W11) |
+| [![Documentation Déploiement W11](/assets/img/entreprise/OGC.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/OGC) | **Gestion et création de comptes OGC** <br> Administration des accès intranet via l'outil OGC, incluant la création de comptes utilisateurs, le rattachement aux Unités Organisationnelles (OU) et la synchronisation avec l'ANNUDEF. <br> [📂 Voir la documentation technique](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/OGC) |
 
 3. **📦 Déploiement et mise à jour logicielle**
 
