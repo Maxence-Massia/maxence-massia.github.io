@@ -4,35 +4,58 @@ icon: fas fa-user
 order: 1
 ---
 
-# 👋 À propos de moi
+<div class="clearfix">
 
-Je suis étudiant en **BTS SIO option SISR**, passionné par l’administration systèmes et réseaux.
+  ![Maxence MASSIA](/assets/img/entreprise/profils.png){: .left .mr-3 .w-25 .rounded-circle .shadow }
 
-Je m’intéresse particulièrement à :
+  ### Maxence MASSIA
+  **Étudiant en BTS SIO option SISR**
+  <i class="fas fa-map-marker-alt mr-1">
+  </i> [Poissy, France]
 
-- la virtualisation (Proxmox)
-- les infrastructures réseau (Cisco)
-- l’administration Linux
-- la supervision et le monitoring
+  Actuellement etudiant dans l'école H3 Campus a **Poissy** en deuxième année de **BTS SIO** (Système informatique des organisation) avec option **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux)
 
----
+</div>
 
-## 🎓 Formation
+<hr class="my-5">
 
-BTS SIO option SISR  
-Spécialisation : Systèmes et Réseaux
-Dans l'école H3 Campus a poissy
----
+<div class="row">
 
-## 🧠 Compétences techniques
+  <div class="col-12 col-md-6 pr-md-4">
+    <h3 class="border-bottom pb-2 mb-4">
+      <i class="fas fa-graduation-cap mr-2">
+      </i> Formation
+    </h3>
 
-- Virtualisation : Proxmox
-- Systèmes : Linux
-- Réseau : Cisco, VLAN
-- Supervision : Prometheus / Grafana
+    #### **BTS SIO option SISR**
+    *Solutions d'Infrastructure, Systèmes et Réseaux*
+    <br>[H3 campus], [Poissy]
+    <br><i class="far fa-calendar-alt mr-1">
+    </i> 202X - Présent
 
----
+    <br>
 
-## 🎯 Objectif professionnel
+    #### **Baccalauréat Pro [RISC]**
+    <br>[Saint erembert], [Saint Germain En-Laye]
+    <br><i class="far fa-calendar-alt mr-1">
+    </i> [2022-2023]
+  </div>
 
-Développer mes compétences en administration systèmes et réseaux afin de travailler dans le domaine de l’infrastructure informatique.
+  <div class="col-12 col-md-6 pl-md-4 mt-5 mt-md-0">
+    <h3 class="border-bottom pb-2 mb-4">
+      <i class="fas fa-briefcase mr-2">
+      </i> Expérience Professionnelle
+    </h3>
+
+    #### **Technicien Service Desk (Alternance)**
+    <br>**Ministère des Armées**
+    <br><i class="far fa-calendar-alt mr-1">
+    </i> [Septembre, 2024] - Présent
+    <br>
+
+    * Gestion et création de comptes via OGC/ANNUDEF.
+    * Administration des droits Active Directory (AD).
+    * Déploiement logiciel automatisé (PSAUM/MECM).
+  </div>
+
+</div>
