@@ -50,3 +50,33 @@ order: 1
     </div>
   </div>
 </div>
+
+<hr class="my-4">
+
+<div class="row">
+  <div class="col-12">
+    <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-certificate mr-2"></i> Certifications</h3>
+    
+    <div class="row">
+      <div class="col-12 col-md-8">
+        <div class="p-3 border rounded shadow-sm h-100">
+          
+          <div class="d-flex align-items-center mb-3">
+            <i class="fas fa-user-shield fa-2x text-primary mr-3"></i>
+            <div>
+              <h5 class="h6 mb-0 font-weight-bold">MOOC SecNumacad</h5>
+              <p class="small text-muted mb-0">ANSSI - Sensibilisation Cybersécurité</p>
+            </div>
+          </div>
+          
+          <img src="/assets/img/entreprise/MOOC.png" alt="Certificat MOOC SecNumacad ANSSI" class="img-fluid rounded shadow-sm mb-3">
+          
+          <p class="text-dark small border-top pt-2 mt-2">
+            Formation complète validant les fondamentaux de la sécurité numérique. Le programme couvre quatre modules clés : **panorama de la SSI**, **sécurité de l'authentification**, **sécurité sur Internet** et **sécurité du poste de travail**.
+          </p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
