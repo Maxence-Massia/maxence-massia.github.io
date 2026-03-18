@@ -138,7 +138,7 @@ order: 1
           <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">3</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Réseau</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4, CIDR, Gateway,ARP spoofing, HSRP .</p>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4, CIDR, Gateway,ARP spoofing, HSRP, VPN .</p>
           </div>
           <i class="fas fa-route text-light fa-lg ml-2"></i>
         </div>
