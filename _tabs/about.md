@@ -79,3 +79,80 @@ order: 1
     </div>
   </div>
 </div>
+
+<hr class="my-5">
+
+<div class="row">
+  <div class="col-12">
+    <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-layer-group mr-2"></i> Compétences Réseaux (Modèle OSI)</h3>
+    <p class="text-muted small mb-4">Voici les compétences et TP réalisés, classés selon les couches du modèle OSI :</p>
+
+    <div class="row">
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
+          <div class="bg-primary text-white rounded px-3 py-2 mr-3 font-weight-bold">1</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Couche Physique (Physical)</h5>
+            <p class="small text-muted mb-0">
+              <strong>TP Réalisés :</strong> Réinitialisation de routeurs et switchs Cisco via câble console, brassage de baies de brassage, sertissage de câbles RJ45.
+            </p>
+          </div>
+          <i class="fas fa-microchip text-light fa-2x"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
+          <div class="bg-info text-white rounded px-3 py-2 mr-3 font-weight-bold">2</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Couche Liaison de données (Data Link)</h5>
+            <p class="small text-muted mb-0">
+              <strong>TP Réalisés :</strong> Configuration de VLANs (802.1Q), sécurisation de ports (Port-Security), agrégation de liens (EtherChannel).
+            </p>
+          </div>
+          <i class="fas fa-ethernet text-light fa-2x"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
+          <div class="bg-success text-white rounded px-3 py-2 mr-3 font-weight-bold">3</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Couche Réseau (Network)</h5>
+            <p class="small text-muted mb-0">
+              <strong>TP Réalisés :</strong> Routage statique et dynamique (RIP, OSPF), adressage IPv4 et IPv6, mise en place de listes de contrôle d'accès (ACL).
+            </p>
+          </div>
+          <i class="fas fa-route text-light fa-2x"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
+          <div class="bg-warning text-white rounded px-3 py-2 mr-3 font-weight-bold">4</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Couche Transport</h5>
+            <p class="small text-muted mb-0">
+              <strong>TP Réalisés :</strong> Analyse de flux TCP/UDP via Wireshark, configuration de NAT/PAT pour l'accès internet.
+            </p>
+          </div>
+          <i class="fas fa-exchange-alt text-light fa-2x"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100 border-primary" style="border-width: 2px !important;">
+          <div class="bg-dark text-white rounded px-3 py-2 mr-3 font-weight-bold">5-7</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Couches Applicatives (Application)</h5>
+            <p class="small text-muted mb-0">
+              <strong>TP Réalisés :</strong> Administration de services (DNS, DHCP, Web HTTP/HTTPS), gestion des accès Active Directory, administration OGC/ANNUDEF.
+            </p>
+          </div>
+          <i class="fas fa-server text-light fa-2x"></i>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
