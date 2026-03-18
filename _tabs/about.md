@@ -94,7 +94,7 @@ order: 1
           <div class="bg-dark text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">7</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Application</h5>
-            <p class="small text-muted mb-0"><strong>Services :</strong> HTTP, DNS, DHCP, FTP. Administration OGC/ANNUDEF et Active Directory.</p>
+            <p class="small text-muted mb-0"><strong>Services :</strong> Réinitialisation Switch, Shell, SSH, DNS, DHCP,FTP </p>
           </div>
           <i class="fas fa-window-maximize text-light fa-lg ml-2"></i>
         </div>
@@ -105,7 +105,7 @@ order: 1
           <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">6</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Présentation</h5>
-            <p class="small text-muted mb-0"><strong>Concepts :</strong> Chiffrement (SSL/TLS), formats de données, compression.</p>
+            <p class="small text-muted mb-0"><strong>Concepts :</strong> Chiffrement (SHA256), formats de données, compression.</p>
           </div>
           <i class="fas fa-file-code text-light fa-lg ml-2"></i>
         </div>
@@ -116,7 +116,7 @@ order: 1
           <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">5</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Session</h5>
-            <p class="small text-muted mb-0"><strong>Concepts :</strong> Gestion des dialogues, synchronisation, NetBIOS.</p>
+            <p class="small text-muted mb-0"><strong>Concepts :</strong> RPC (entreprise) .</p>
           </div>
           <i class="fas fa-comments text-light fa-lg ml-2"></i>
         </div>
@@ -127,7 +127,7 @@ order: 1
           <div class="bg-warning text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">4</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Transport</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Analyse de flux TCP/UDP (Wireshark), configuration de NAT/PAT.</p>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Analyse de flux TCP/UDP (Wireshark), firewall, .</p>
           </div>
           <i class="fas fa-exchange-alt text-light fa-lg ml-2"></i>
         </div>
@@ -138,7 +138,7 @@ order: 1
           <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">3</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Réseau</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4/IPv6, ACL Cisco.</p>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4, CIDR, Gateway,ARP spoofing, HSRP .</p>
           </div>
           <i class="fas fa-route text-light fa-lg ml-2"></i>
         </div>
@@ -149,7 +149,7 @@ order: 1
           <div class="bg-info text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">2</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Liaison</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Configuration de VLANs (802.1Q), Port-Security, Spanning-Tree (STP).</p>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Configuration de VLANs, Wireshark.</p>
           </div>
           <i class="fas fa-project-diagram text-light fa-lg ml-2"></i>
         </div>
@@ -160,7 +160,7 @@ order: 1
           <div class="bg-danger text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">1</div>
           <div class="flex-grow-1">
             <h5 class="h6 mb-1 font-weight-bold">Physique</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Réinitialisation de routeur (câble console), brassage de baies, câblage RJ45.</p>
+            <p class="small text-muted mb-0"><strong>TP :</strong>TP connecter un réseau local câblé.</p>
           </div>
           <i class="fas fa-plug text-light fa-lg ml-2"></i>
         </div>
