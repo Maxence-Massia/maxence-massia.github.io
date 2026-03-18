@@ -137,7 +137,7 @@ order: 1
         <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #27ae60 !important;">
           <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">3</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Réseau (Network)</h5>
+            <h5 class="h6 mb-1 font-weight-bold">Réseau</h5>
             <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4/IPv6, ACL Cisco.</p>
           </div>
           <i class="fas fa-route text-light fa-lg ml-2"></i>
@@ -148,7 +148,7 @@ order: 1
         <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #2980b9 !important;">
           <div class="bg-info text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">2</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Liaison (Data Link)</h5>
+            <h5 class="h6 mb-1 font-weight-bold">Liaison</h5>
             <p class="small text-muted mb-0"><strong>TP :</strong> Configuration de VLANs (802.1Q), Port-Security, Spanning-Tree (STP).</p>
           </div>
           <i class="fas fa-project-diagram text-light fa-lg ml-2"></i>
@@ -159,7 +159,7 @@ order: 1
         <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #c0392b !important;">
           <div class="bg-danger text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">1</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Physique (Physical)</h5>
+            <h5 class="h6 mb-1 font-weight-bold">Physique</h5>
             <p class="small text-muted mb-0"><strong>TP :</strong> Réinitialisation de routeur (câble console), brassage de baies, câblage RJ45.</p>
           </div>
           <i class="fas fa-plug text-light fa-lg ml-2"></i>
