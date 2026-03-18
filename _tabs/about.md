@@ -67,7 +67,7 @@ order: 1
             </div>
           </div>
           
-          <img src="/assets/img/entreprise/certificat-anssi.png" alt="Certificat ANSSI MOOC" class="img-fluid rounded shadow-sm mb-3 border">
+          <img src="/assets/img/entreprise/MOOC.png" alt="Certificat ANSSI MOOC" class="img-fluid rounded shadow-sm mb-3 border">
           
           <p class="text-dark small border-top pt-3 mt-2" style="line-height: 1.6;">
             Formation complète validant les fondamentaux de la sécurité numérique. Le programme couvre quatre modules clés : 
