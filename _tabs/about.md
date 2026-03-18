@@ -82,74 +82,87 @@ order: 1
 
 <hr class="my-5">
 
-<div class="row">
+<div class="row pb-5">
   <div class="col-12">
-    <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-layer-group mr-2"></i> Compétences Réseaux (Modèle OSI)</h3>
-    <p class="text-muted small mb-4">Voici les compétences et TP réalisés, classés selon les couches du modèle OSI :</p>
+    <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-network-wired mr-2"></i> Compétences développée</h3>
+    <p class="text-muted small mb-4">Architecture des compétences acquises et travaux pratiques réalisés par couche :</p>
 
     <div class="row">
+
       <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
-          <div class="bg-primary text-white rounded px-3 py-2 mr-3 font-weight-bold">1</div>
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white border-primary" style="border-left: 5px solid #2c3e50 !important;">
+          <div class="bg-dark text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">7</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Couche Physique (Physical)</h5>
-            <p class="small text-muted mb-0">
-              <strong>TP Réalisés :</strong> Réinitialisation de routeurs et switchs Cisco via câble console, brassage de baies de brassage, sertissage de câbles RJ45.
-            </p>
+            <h5 class="h6 mb-1 font-weight-bold">Application</h5>
+            <p class="small text-muted mb-0"><strong>Services :</strong> HTTP, DNS, DHCP, FTP. Administration OGC/ANNUDEF et Active Directory.</p>
           </div>
-          <i class="fas fa-microchip text-light fa-2x"></i>
+          <i class="fas fa-window-maximize text-light fa-lg ml-2"></i>
         </div>
       </div>
 
       <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
-          <div class="bg-info text-white rounded px-3 py-2 mr-3 font-weight-bold">2</div>
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #34495e !important;">
+          <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">6</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Couche Liaison de données (Data Link)</h5>
-            <p class="small text-muted mb-0">
-              <strong>TP Réalisés :</strong> Configuration de VLANs (802.1Q), sécurisation de ports (Port-Security), agrégation de liens (EtherChannel).
-            </p>
+            <h5 class="h6 mb-1 font-weight-bold">Présentation</h5>
+            <p class="small text-muted mb-0"><strong>Concepts :</strong> Chiffrement (SSL/TLS), formats de données, compression.</p>
           </div>
-          <i class="fas fa-ethernet text-light fa-2x"></i>
+          <i class="fas fa-file-code text-light fa-lg ml-2"></i>
         </div>
       </div>
 
       <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
-          <div class="bg-success text-white rounded px-3 py-2 mr-3 font-weight-bold">3</div>
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #7f8c8d !important;">
+          <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">5</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Couche Réseau (Network)</h5>
-            <p class="small text-muted mb-0">
-              <strong>TP Réalisés :</strong> Routage statique et dynamique (RIP, OSPF), adressage IPv4 et IPv6, mise en place de listes de contrôle d'accès (ACL).
-            </p>
+            <h5 class="h6 mb-1 font-weight-bold">Session</h5>
+            <p class="small text-muted mb-0"><strong>Concepts :</strong> Gestion des dialogues, synchronisation, NetBIOS.</p>
           </div>
-          <i class="fas fa-route text-light fa-2x"></i>
+          <i class="fas fa-comments text-light fa-lg ml-2"></i>
         </div>
       </div>
 
       <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100">
-          <div class="bg-warning text-white rounded px-3 py-2 mr-3 font-weight-bold">4</div>
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #f39c12 !important;">
+          <div class="bg-warning text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">4</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Couche Transport</h5>
-            <p class="small text-muted mb-0">
-              <strong>TP Réalisés :</strong> Analyse de flux TCP/UDP via Wireshark, configuration de NAT/PAT pour l'accès internet.
-            </p>
+            <h5 class="h6 mb-1 font-weight-bold">Transport</h5>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Analyse de flux TCP/UDP (Wireshark), configuration de NAT/PAT.</p>
           </div>
-          <i class="fas fa-exchange-alt text-light fa-2x"></i>
+          <i class="fas fa-exchange-alt text-light fa-lg ml-2"></i>
         </div>
       </div>
 
       <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white h-100 border-primary" style="border-width: 2px !important;">
-          <div class="bg-dark text-white rounded px-3 py-2 mr-3 font-weight-bold">5-7</div>
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #27ae60 !important;">
+          <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">3</div>
           <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Couches Applicatives (Application)</h5>
-            <p class="small text-muted mb-0">
-              <strong>TP Réalisés :</strong> Administration de services (DNS, DHCP, Web HTTP/HTTPS), gestion des accès Active Directory, administration OGC/ANNUDEF.
-            </p>
+            <h5 class="h6 mb-1 font-weight-bold">Réseau (Network)</h5>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4/IPv6, ACL Cisco.</p>
           </div>
-          <i class="fas fa-server text-light fa-2x"></i>
+          <i class="fas fa-route text-light fa-lg ml-2"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #2980b9 !important;">
+          <div class="bg-info text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">2</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Liaison (Data Link)</h5>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Configuration de VLANs (802.1Q), Port-Security, Spanning-Tree (STP).</p>
+          </div>
+          <i class="fas fa-project-diagram text-light fa-lg ml-2"></i>
+        </div>
+      </div>
+
+      <div class="col-12 mb-3">
+        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #c0392b !important;">
+          <div class="bg-danger text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">1</div>
+          <div class="flex-grow-1">
+            <h5 class="h6 mb-1 font-weight-bold">Physique (Physical)</h5>
+            <p class="small text-muted mb-0"><strong>TP :</strong> Réinitialisation de routeur (câble console), brassage de baies, câblage RJ45.</p>
+          </div>
+          <i class="fas fa-plug text-light fa-lg ml-2"></i>
         </div>
       </div>
 
