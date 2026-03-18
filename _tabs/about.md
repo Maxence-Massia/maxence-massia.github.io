@@ -28,13 +28,13 @@ order: 1
       <div class="text-primary font-weight-bold">2023 - Présent</div>
       <h4 class="h5 mb-1">BTS SIO option SISR</h4>
       <p class="text-muted mb-1"><em>Solutions d'Infrastructure, Systèmes et Réseaux</em></p>
-      <p class="small">H3 Campus, Poissy</p>
+      <p class="small text-muted">H3 Campus, Poissy</p>
     </div>
 
     <div class="mb-4">
       <div class="text-primary font-weight-bold">2022 - 2023</div>
       <h4 class="h5 mb-1">Baccalauréat Pro RISC</h4>
-      <p class="small">Saint Erembert, Saint Germain En-Laye</p>
+      <p class="small text-muted">Saint Erembert, Saint Germain En-Laye</p>
     </div>
   </div>
 
@@ -45,7 +45,7 @@ order: 1
       <div class="text-primary font-weight-bold">Septembre 2024 - Présent</div>
       <h4 class="h5 mb-1">Technicien Service Desk (Alternance)</h4>
       <p class="font-weight-bold mb-2">Ministère des Armées</p>
-      <ul class="small pl-3">
+      <ul class="small pl-3 text-muted">
         <li class="mb-1">Gestion et création de comptes via OGC/ANNUDEF.</li>
         <li class="mb-1">Administration des droits Active Directory (AD).</li>
         <li class="mb-1">Déploiement logiciel automatisé (PSAUM/MECM).</li>
