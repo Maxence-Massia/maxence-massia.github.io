@@ -1,20 +1,20 @@
 ---
-title: "Installation technique : Prometheus & Grafana"
+title: "Projet Monitoring : Prometheus & Grafana"
 date: 2026-03-06 10:00:00 +0100
 categories: [Projets]
 tags: [Monitoring, Linux, Prometheus, Grafana]
 ---
 
-## 🛠️ Procédure d'installation du monitoring
+# 📊 Projet Monitoring
 
-Ce document détaille les étapes techniques que j'ai suivies pour mettre en place la solution de supervision sur ma machine virtuelle **PVE1**.
+Dans le cadre de l’infrastructure M2L, j’ai mis en place une solution de supervision afin de surveiller l’état des machines et des services.
 
 ---
 
 # Rapport de Projet : Monitoring Infrastructure avec Prometheus & Grafana
 
 ## 1. Objectif du projet
-L'objectif principal est la mise en place d'une solution de **monitoring centralisée** pour surveiller en temps réel l'état de mes infrastructures (CPU, mémoire vive, stockage et flux réseau). Ce projet permet d'obtenir une vision précise des performances de ma machine virtuelle tournant sur l'hyperviseur **Proxmox (PVE1)** ainsi que de mon **routeur**.
+L'objectif principal est la mise en place d'une solution de **monitoring centralisée** pour surveiller en temps réel l'état de mes infrastructures (CPU, mémoire vive, stockage et flux réseau). Ce projet permet d'obtenir une vision précise des performances du routeur, Switch, Point accès.
 
 ---
 
@@ -27,7 +27,7 @@ L'objectif principal est la mise en place d'une solution de **monitoring central
 
 ## 3. Collecte des données avec Node Exporter
 
-Pour que le serveur puisse analyser les métriques, j'utilise l'agent **Node Exporter** sur chaque machine cible.
+Pour que le serveur puisse analyser les métriques, j'utilise l'agent **Node Exporter** sur chaque machine cible sauf AP et Switch.
 
 * **Sur la VM :** Le collecteur est actif et communique les données système de ma VM Proxmox.
 * **Sur le Routeur :** J'ai installé un agent `node_exporter` sur le routeur pour récupérer ses informations spécifiques.
@@ -35,7 +35,7 @@ Pour que le serveur puisse analyser les métriques, j'utilise l'agent **Node Exp
 
 ---
 
-## 4. Installation sécurisée de Grafana
+## 4. Installation de Grafana
 
 L'installation de Grafana a été réalisée via le **dépôt officiel** pour garantir la sécurité et la simplicité des mises à jour :
 
