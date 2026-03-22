@@ -93,7 +93,7 @@ order: 1
     <div style="background: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">7</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Application</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Services :</strong> HTTP/S, DNS, DHCP, FTP, SSH, gestion de services réseau.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Services :</strong> HTTP/S, DNS, DHCP, FTP, SSH.</p>
     </div>
   </div>
 
@@ -101,7 +101,7 @@ order: 1
     <div style="background: #34495e; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">6</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Présentation</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Chiffrement (SSL/TLS, SHA256), formats de données (JSON, XML), compression.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Chiffrement (SHA256).</p>
     </div>
   </div>
 
@@ -109,7 +109,7 @@ order: 1
     <div style="background: #7f8c8d; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">5</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Session</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Gestion des sessions (RPC, NetBIOS), authentification.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Gestion des sessions (RPC,), authentification.</p>
     </div>
   </div>
 
@@ -125,7 +125,7 @@ order: 1
     <div style="background: #27ae60; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">3</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Réseau</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Routage :</strong> OSPF, Adressage IPv4/VLSM, Passerelles, VPN IPsec, ICMP.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Routage :</strong> OSPF, Adressage IPv4, Passerelles, VPN, ICMP.</p>
     </div>
   </div>
 
@@ -133,7 +133,7 @@ order: 1
     <div style="background: #2980b9; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">2</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Liaison</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Commutation :</strong> VLANs (802.1Q), STP, Adresses MAC, ARP Spoofing, HSRP.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Commutation :</strong> VLANs,Adresses MAC, ARP Spoofing, HSRP.</p>
     </div>
   </div>
 
@@ -141,7 +141,7 @@ order: 1
     <div style="background: #c0392b; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">1</div>
     <div>
       <h4 style="margin: 0; font-size: 1.1em;">Physique</h4>
-      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Infrastructure :</strong> Brassage de baie, câblage Ethernet (RJ45), maintenance matériel.</p>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Infrastructure :</strong> câblage Ethernet (RJ45), maintenance matériel.</p>
     </div>
   </div>
 
