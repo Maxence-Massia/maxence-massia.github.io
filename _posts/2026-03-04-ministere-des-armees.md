@@ -7,7 +7,7 @@ tags: [Ministère,CNAD,]
 
 Le **Ministère des Armées** est l'institution de l'État chargée de la préparation et de la mise en œuvre de la défense militaire du pays. Dans un contexte de numérisation croissante des conflits, il est aujourd'hui un acteur majeur de la **souveraineté numérique** et de la **cybersécurité** en France.
 
-### 📊 Chiffres Clés de l'Institution (Données 2025/2026)
+###  Chiffres Clés de l'Institution (Données 2025/2026)
 
 Travailler pour la Défense, c'est évoluer au sein du premier employeur de l'État avec une structure monumentale :
 
@@ -18,7 +18,7 @@ Travailler pour la Défense, c'est évoluer au sein du premier employeur de l'É
 
 ---
 
-## 📡 La DIRISI : L'Opérateur de Confiance
+##  La DIRISI : L'Opérateur de Confiance
 
 La **DIRISI** (*Direction Interarmées des Réseaux d'Infrastructure et des Systèmes d'Information*) est l'opérateur unique des systèmes d'information et de communication du ministère. C'est, en résumé, le **fournisseur d'accès et de services informatiques** de toutes les armées françaises.
 
@@ -31,6 +31,6 @@ La DIRISI intervient sur toute la chaîne de valeur informatique avec des contra
 3.  **Développement et Support :** Conception d'applications métiers (logistique, RH, commandement) et support technique pour des centaines de milliers d'utilisateurs.
 4.  **Sécurité et Résilience :** Assurer le **Maintien en Condition Opérationnelle (MCO)** et la cybersécurité des systèmes face aux menaces hybrides.
  ---
-### 🔗 En savoir plus
-👉 [Découvrir le détail de mes missions techniques]({{ site.baseurl }}/posts/missions-ministere/)
+###  En savoir plus
+[Découvrir le détail de mes missions techniques]({{ site.baseurl }}/posts/missions-ministere/)
 --- 
