@@ -53,6 +53,18 @@ L'installation de Grafana a été réalisée via le **dépôt officiel** pour ga
 
 ---
 
+## 6. Supervision Réseau avancée via SNMP (Switch & AP)
+
+Pour intégrer les équipements réseaux (Switch Cisco/HP et Point d'Accès Wifi), j'ai mis en place le protocole **SNMP** (Simple Network Management Protocol).
+
+* **Configuration des équipements :** Activation du service SNMP sur le Switch et l'AP avec la création d'une communauté dédiée nommée `team3`.
+* **Mise en place de SNMP Exporter :** * Utilisation d'un **générateur de configuration** pour créer le fichier `snmp.yml` (gestion des MIBs).
+    * Modification du fichier pour y injecter la communauté `team3`.
+* **Configuration de Prometheus :** Ajout de deux jobs spécifiques (`snmp-switch` et `snmp-ap`) dans le `prometheus.yml`. J'ai configuré les cibles (IP) et spécifié les modules pour que Prometheus sache quel profil de scan utiliser.
+* **Visualisation Grafana :** Importation d'un dashboard spécialisé pour SNMP Exporter.
+    * **Métriques clés surveillées :** Uptime des équipements, statut des ports (Up/Down), taux de transfert (Input/Output Traffic) et erreurs sur les interfaces.
+
+  ---
 
 ### 🔗 Retour au projet
 👉 [Revenir à la présentation générale du projet]({{ site.baseurl }}/posts/monitoring/)
