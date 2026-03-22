@@ -49,7 +49,7 @@ L'installation de Grafana a été réalisée via le **dépôt officiel** pour ga
 ## 5. Visualisation et Dashboard
 
 * **Liaison des données :** Dans l'interface web de Grafana, j'ai ajouté Prometheus comme **Data Source** en renseignant l'adresse IP de mon serveur.
-* **Résultat final :** J'ai configuré un tableau de bord (Dashboard) dynamique. Il me permet de visualiser toutes les statistiques et performances de ma VM et de mon routeur sous forme de graphiques clairs, précis et très complets.
+* **Résultat Grafana :** J'ai configuré un tableau de bord (Dashboard) dynamique. Il me permet de visualiser toutes les statistiques et performances de ma VM et de mon routeur sous forme de graphiques clairs, précis et très complets.
 
 ---
 
