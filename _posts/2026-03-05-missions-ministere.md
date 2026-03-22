@@ -5,10 +5,19 @@ categories: [Entreprise]
 tags: [AD,Déploiment_W11]
 ---
 
-##  Contexte Technique
-Dans le cadre de mon alternance au sein du **CNAD**, j'ai été chargé du ticketing de l'esemble du plateau Balard (Paris) et des VIP-VOP THA
+##  Contexte Technique et Missions
 
-###  Mes principales missions :
+Dans le cadre de mon alternance au sein du **CNAD** (Centre National d'Administration des Données), j'ai été intégré à l'équipe chargée du ticketing et du support niveau 2 pour l'ensemble du **site de Balard** (Paris).
+
+###  Périmètre d'Intervention
+
+* **Utilisateurs :** Plus de 9 000 personnels civils et militaires du Ministère des Armées.
+* **Parc Informatique :** Gestion et maintenance de milliers de postes de travail sur plusieurs réseaux (Intradef, Internet).
+* **Profils Critiques :** Prise en charge spécifique des demandes pour les autorités VIP-VOP THA (Très Hautes Autorités).
+
+###  Mes Principales Missions
+
+J'ai réalisé ces missions dans le respect strict des procédures de sécurité et des **recommandations SSI** du ministère.
 
 1. **Administration Active Directory (AD)**
 
