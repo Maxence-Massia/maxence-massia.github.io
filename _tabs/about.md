@@ -89,83 +89,61 @@ order: 1
 
     <div class="row">
 
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white border-primary" style="border-left: 5px solid #2c3e50 !important;">
-          <div class="bg-dark text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">7</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Application</h5>
-            <p class="small text-muted mb-0"><strong>Services :</strong> Réinitialisation Switch, Shell, SSH, DNS, DHCP,FTP </p>
-          </div>
-          <i class="fas fa-window-maximize text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #34495e !important;">
-          <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">6</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Présentation</h5>
-            <p class="small text-muted mb-0"><strong>Concepts :</strong> Chiffrement (SHA256), formats de données, compression.</p>
-          </div>
-          <i class="fas fa-file-code text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #7f8c8d !important;">
-          <div class="bg-secondary text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">5</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Session</h5>
-            <p class="small text-muted mb-0"><strong>Concepts :</strong> RPC (entreprise) .</p>
-          </div>
-          <i class="fas fa-comments text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #f39c12 !important;">
-          <div class="bg-warning text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">4</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Transport</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Analyse de flux TCP/UDP (Wireshark), firewall, .</p>
-          </div>
-          <i class="fas fa-exchange-alt text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #27ae60 !important;">
-          <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">3</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Réseau</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Routage statique/dynamique (OSPF), adressage IPv4, CIDR, Gateway,ARP spoofing, HSRP, VPN .</p>
-          </div>
-          <i class="fas fa-route text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #2980b9 !important;">
-          <div class="bg-info text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">2</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Liaison</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong> Configuration de VLANs, Wireshark.</p>
-          </div>
-          <i class="fas fa-project-diagram text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
-      <div class="col-12 mb-3">
-        <div class="p-3 border rounded shadow-sm d-flex align-items-center bg-white" style="border-left: 5px solid #c0392b !important;">
-          <div class="bg-danger text-white rounded-circle d-flex align-items-center justify-content-center mr-3" style="width: 40px; height: 40px; min-width: 40px;">1</div>
-          <div class="flex-grow-1">
-            <h5 class="h6 mb-1 font-weight-bold">Physique</h5>
-            <p class="small text-muted mb-0"><strong>TP :</strong>TP connecter un réseau local câblé.</p>
-          </div>
-          <i class="fas fa-plug text-light fa-lg ml-2"></i>
-        </div>
-      </div>
-
+  <div style="border-left: 5px solid #2c3e50; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">7</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Application</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Services :</strong> HTTP/S, DNS, DHCP, FTP, SSH, gestion de services réseau.</p>
     </div>
   </div>
+
+  <div style="border-left: 5px solid #34495e; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #34495e; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">6</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Présentation</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Chiffrement (SSL/TLS, SHA256), formats de données (JSON, XML), compression.</p>
+    </div>
+  </div>
+
+  <div style="border-left: 5px solid #7f8c8d; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #7f8c8d; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">5</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Session</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Concepts :</strong> Gestion des sessions (RPC, NetBIOS), authentification.</p>
+    </div>
+  </div>
+
+  <div style="border-left: 5px solid #f39c12; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #f39c12; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">4</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Transport</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Analyse :</strong> Flux TCP/UDP (Wireshark), filtrage par ports (Firewalling).</p>
+    </div>
+  </div>
+
+  <div style="border-left: 5px solid #27ae60; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #27ae60; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">3</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Réseau</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Routage :</strong> OSPF, Adressage IPv4/VLSM, Passerelles, VPN IPsec, ICMP.</p>
+    </div>
+  </div>
+
+  <div style="border-left: 5px solid #2980b9; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #2980b9; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">2</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Liaison</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Commutation :</strong> VLANs (802.1Q), STP, Adresses MAC, ARP Spoofing, HSRP.</p>
+    </div>
+  </div>
+
+  <div style="border-left: 5px solid #c0392b; padding: 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px; display: flex; align-items: center;">
+    <div style="background: #c0392b; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; margin-right: 15px; font-weight: bold;">1</div>
+    <div>
+      <h4 style="margin: 0; font-size: 1.1em;">Physique</h4>
+      <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;"><strong>Infrastructure :</strong> Brassage de baie, câblage Ethernet (RJ45), maintenance matériel.</p>
+    </div>
+  </div>
+
+</div>
 </div>
