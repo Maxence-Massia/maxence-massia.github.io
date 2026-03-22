@@ -5,7 +5,7 @@ categories: [Projets]
 tags: [Monitoring, Linux, Prometheus, Grafana]
 ---
 
-# 📊 Projet Monitoring
+# Projet Monitoring
 
 Dans le cadre de l’infrastructure M2L, j’ai mis en place une solution de supervision afin de surveiller l’état des machines et des services.
 
