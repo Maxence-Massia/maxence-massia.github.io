@@ -24,7 +24,7 @@ order: 1
   <div class="col-12 col-md-6 pr-md-5">
     <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-graduation-cap mr-2"></i> Formation</h3>
     <div class="mb-4">
-      <div class="text-primary font-weight-bold">2023 - Présent</div>
+      <div class="text-primary font-weight-bold">2024 - Présent</div>
       <h4 class="h5 mb-1">BTS SIO option SISR</h4>
       <p class="text-muted mb-1 small"><em>Solutions d'Infrastructure, Systèmes et Réseaux</em></p>
       <p class="small text-muted">H3 Campus, Poissy</p>
