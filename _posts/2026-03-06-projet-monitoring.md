@@ -16,12 +16,16 @@ Dans le cadre de l’infrastructure M2L, j’ai mis en place une solution de sup
 ## 1. Objectif du projet
 L'objectif principal est la mise en place d'une solution de **monitoring centralisée** pour surveiller en temps réel l'état de mes infrastructures (CPU, mémoire vive, stockage et flux réseau). Ce projet permet d'obtenir une vision précise des performances du routeur, Switch, Point accès.
 
+![Schéma de l'architecture Monitoring](/assets/img/Projet/interface.png)
+
 ---
 
 ## 2. Installation et configuration de Prometheus
 
 * **Méthode d'installation :** J'ai installé Prometheus via les dépôts officiels Ubuntu. Cette approche est avantageuse car elle inclut nativement les composants essentiels comme `alertmanager` et `node_exporter`.
 * **Gestion du service :** L'installation crée automatiquement un service **systemd** (`systemctl`). Cela garantit que Prometheus se lance automatiquement au démarrage du serveur, assurant une collecte de données ininterrompue à chaque ouverture de terminal ou redémarrage.
+
+![Statut du service Prometheus](/assets/img/Projet/systemctl.png)
 
 ---
 
@@ -32,6 +36,8 @@ Pour que le serveur puisse analyser les métriques, j'utilise l'agent **Node Exp
 * **Sur la VM :** Le collecteur est actif et communique les données système de ma VM Proxmox.
 * **Sur le Routeur :** J'ai installé un agent `node_exporter` sur le routeur pour récupérer ses informations spécifiques.
 * **Configuration du serveur :** J'ai modifié le fichier `prometheus.yml` pour ajouter un nouveau `job_name` appelé `router_node`. J'y ai renseigné l'adresse IP et le port spécifique du routeur pour qu'il soit reconnu comme source de données.
+
+![Configuration prometheus.yml](/assets/img/Projet/prometheus.png)
 
 ---
 
@@ -49,7 +55,9 @@ L'installation de Grafana a été réalisée via le **dépôt officiel** pour ga
 ## 5. Visualisation et Dashboard
 
 * **Liaison des données :** Dans l'interface web de Grafana, j'ai ajouté Prometheus comme **Data Source** en renseignant l'adresse IP de mon serveur.
-* **Résultat Grafana :** J'ai configuré un tableau de bord (Dashboard) dynamique. Il me permet de visualiser toutes les statistiques et performances de ma VM et de mon routeur sous forme de graphiques clairs, précis et très complets.
+* **Résultat final :** J'ai configuré un tableau de bord (Dashboard) dynamique. Il me permet de visualiser toutes les statistiques et performances de ma VM et de mon routeur sous forme de graphiques clairs, précis et très complets.
+
+![Dashboard Grafana Node Exporter](/assets/img/Projet/CPU.png)
 
 ---
 
@@ -61,7 +69,15 @@ Pour intégrer les équipements réseaux (Switch Cisco/HP et Point d'Accès Wifi
 * **Mise en place de SNMP Exporter :** * Utilisation d'un **générateur de configuration** pour créer le fichier `snmp.yml` (gestion des MIBs).
     * Modification du fichier pour y injecter la communauté `team3`.
 * **Configuration de Prometheus :** Ajout de deux jobs spécifiques (`snmp-switch` et `snmp-ap`) dans le `prometheus.yml`. J'ai configuré les cibles (IP) et spécifié les modules pour que Prometheus sache quel profil de scan utiliser.
+
+![Cibles SNMP dans Prometheus](/assets/img/Projet/Status.png)
+
+En cliquant sur le lien de la cible (Target) dans Prometheus, on accède directement à la page des métriques brutes générées par l'exportateur. 
+![Métriques brutes reçues de l'AP](/assets/img/Projet/ap.png)
+
 * **Visualisation Grafana :** Importation d'un dashboard spécialisé pour SNMP Exporter.
     * **Métriques clés surveillées :** Uptime des équipements, statut des ports (Up/Down), taux de transfert (Input/Output Traffic) et erreurs sur les interfaces.
+
+![Dashboard Grafana SNMP final](/assets/img/Projet/ApSwitch.png)
 
   ---
