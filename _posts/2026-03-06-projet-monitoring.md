@@ -65,6 +65,3 @@ Pour intégrer les équipements réseaux (Switch Cisco/HP et Point d'Accès Wifi
     * **Métriques clés surveillées :** Uptime des équipements, statut des ports (Up/Down), taux de transfert (Input/Output Traffic) et erreurs sur les interfaces.
 
   ---
-
-### 🔗 Retour au projet
-👉 [Revenir à la présentation générale du projet]({{ site.baseurl }}/posts/monitoring/)
