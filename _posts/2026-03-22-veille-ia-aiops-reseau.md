@@ -5,13 +5,13 @@ categories: [Veille, Réseau]
 tags: [AIOps, Monitoring, Maintenance]
 ---
 
-#  L'AIOps : Vers une maintenance prédictive des réseaux
+# 🌐 AIOps en 2026 : Vers une automatisation native
 
 ## Source de l'article
-[IT-Connect - Actualités Réseaux](https://www.it-connect.fr)
+[APMdigest : AI-Native Automation Changes Telemetry Pipeline Management in 2026](https://www.apmdigest.com/look-ahead-ai-native-automation-changes-telemetry-pipeline-management-forever-2026)
 
 ## Résumé technique
-L'AIOps (AI for IT Operations) utilise le Machine Learning pour analyser les flux réseau. Contrairement au monitoring classique, l'IA détecte des variations de latence qui annoncent une panne imminente avant même qu'elle ne survienne.
+D'ici 2026, l'automatisation "AI-native" devrait gérer environ 80% des tâches de configuration réseau et de monitoring. L'AIOps ne se contente plus de réagir aux alertes, il analyse les pipelines de télémétrie (flux de données) pour automatiser la résolution d'anomalies de performance avant que l'utilisateur ne ressente une lenteur.
 
-## Mon analyse 
-En faisant le lien avec mon projet de **Monitoring (Prometheus/Grafana)**, je comprends que l'étape suivante est l'intelligence prédictive. Pour une infrastructure comme celle de la **M2L**, cela permettrait de remplacer un switch défaillant avant qu'il ne coupe le service, assurant une continuité de service totale.
+## Mon analyse
+Cela rejoint directement mon projet de **Monitoring (Prometheus/Grafana)**. Actuellement, je configure des seuils d'alerte manuels. L'AIOps montre que l'avenir est aux systèmes "auto-réparateurs" : si un lien réseau sature, l'IA pourrait modifier dynamiquement le routage. C'est une technologie que je surveille pour optimiser la disponibilité des services de la **M2L**.
