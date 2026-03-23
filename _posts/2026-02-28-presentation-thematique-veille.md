@@ -1,40 +1,35 @@
 ---
-title: "Ma Thématique de Veille : Le modèle Zero Trust"
+title: "Ma Veille Technologique"
 date: 2026-03-01 10:00:00 +0100
-categories: [Veille, SISR]
-tags: [Méthodologie, Zero-Trust, Sécurité]
+categories: [Veille]
+tags: [IA, Copilot, Phishing]
 pin: true
 image:
-  path: /assets/img/veille/licensed-image.jpg
-  alt: "Architecture de sécurité Zero Trust"
+  path: /assets/img/veille/copilot-security.png
+  alt: "méthodes de défense des infrastructures avec l'IA"
 ---
 
-## 🎯 Pourquoi le Zero Trust ?
-Dans le cadre de mon **BTS SIO SISR**, j'ai choisi de concentrer mes recherches sur le modèle **Zero Trust**. À l'heure où les cybermenaces évoluent et où le télétravail se généralise, la sécurité périmétrique classique (le "château fort") ne suffit plus.
+# 📡 Ma Veille Technologique
 
-### 🔍 Ma problématique
-> "Comment assurer la sécurité des données et des accès dans une infrastructure moderne où l'utilisateur n'est plus forcément à l'intérieur des murs de l'entreprise ?"
-
----
-
-## 🛠 Ma Méthodologie (Référentiel E5)
-Pour répondre aux exigences de ma formation à **H3 HITEMA**, j'utilise une démarche structurée :
-
-1. **Collecte :** Utilisation de [Feedly](https://feedly.com) pour agréger les flux RSS du **CERT-FR**, de **L'ANSSI** et du **Monde Informatique**.
-2. **Analyse et synthèse :** Tri des informations par pertinence et rédaction de rapports techniques.
-3. **Diffusion :** Publication de ma veille sur ce portfolio professionnel.
+## 🎯 Sujet : L'IA au service de la Cybersécurité (AIOps)
+Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
 
 ---
 
----
-## 📂 Accéder à mes rapports techniques
+## 🛠️ Méthodologie et Sources
+J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
 
-Cliquez sur la miniature ci-dessous pour consulter mon analyse détaillée :
-
-| Dernier rapport : Alerte CERT-FR Adobe |
-| :---: |
-| [![Lire le rapport #1](/assets/img/veille/photo-1563986768609-322da13575f3.jpg)]({{ site.baseurl }}/posts/rapport-veille-cert-fr-adobe/) |
-| *Analyse d'une menace critique (Février 2026)* |
+### Mes sources principales :
+* **Actualité IA** : [ActuIA](https://www.actuia.com), [Le Monde Informatique](https://www.lemondeinformatique.fr/intelligence-artificielle-154.html)
+* **Sécurité** : [CERT-FR](https://www.cert.ssi.gouv.fr), [MSRC (Microsoft)](https://msrc.microsoft.com/blog/)
+* **Infrastructure** : [IT-Connect](https://www.it-connect.fr), [Usine Digitale](https://www.usine-digitale.fr)
 
 ---
-*D'autres rapports seront ajoutés prochainement en fonction de l'actualité de ma veille.*
+
+## 📝 Analyses d'articles (Fiches de veille)
+Retrouvez ci-dessous mes derniers rapports d'analyse sur l'évolution de l'IA dans le domaine SISR :
+
+* 📅 **2026-03-23** : [Analyse : L'AIOps pour la gestion prédictive des réseaux](/posts/veille-ia-aiops-reseau/
+* 📅 **2026-03-20** : [Analyse : Microsoft Security Copilot et l'admin système](/posts/veille-ia-microsoft-copilot/
+* 📅 **2026-03-15** : [Analyse : L'IA au service du Phishing (Alertes CERT-FR)](/posts/veille-ia-phishing/
+---
