@@ -29,7 +29,7 @@ J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'in
 ## 📝 Analyses d'articles (Fiches de veille)
 Retrouvez ci-dessous mes derniers rapports d'analyse sur l'évolution de l'IA dans le domaine SISR :
 
-* 📅 **2026-03-23** : [Analyse : L'AIOps pour la gestion prédictive des réseaux](/posts/veille-ia-aiops-reseau/
-* 📅 **2026-03-20** : [Analyse : Microsoft Security Copilot et l'admin système](/posts/veille-ia-microsoft-copilot/
-* 📅 **2026-03-15** : [Analyse : L'IA au service du Phishing (Alertes CERT-FR)](/posts/veille-ia-phishing/
+* 📅 **22/03/2026** : [Analyse : L'AIOps pour la gestion prédictive des réseaux]({% post_url 2026-03-22-veille-ia-aiops-reseau %})
+* 📅 **20/03/2026** : [Analyse : Microsoft Security Copilot et l'admin système]({% post_url 2026-03-20-veille-ia-microsoft-copilot %})
+* 📅 **15/03/2026** : [Analyse : L'IA au service du Phishing (Alertes CERT-FR)]({% post_url 2026-03-15-veille-ia-phishing %})
 ---
