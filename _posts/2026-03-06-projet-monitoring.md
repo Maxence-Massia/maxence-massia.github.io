@@ -14,7 +14,7 @@ Dans le cadre de l’infrastructure M2L, j’ai mis en place une solution de sup
 # Rapport de Projet : Monitoring Infrastructure avec Prometheus & Grafana
 
 ## 1. Objectif du projet
-L'objectif principal est la mise en place d'une solution de **monitoring centralisée** pour surveiller en temps réel l'état de mes infrastructures (CPU, mémoire vive, stockage et flux réseau). Ce projet permet d'obtenir une vision précise des performances du routeur, Switch, Point accès.
+L'objectif principal est la mise en place d'une solution de **monitoring centralisée** pour surveiller en temps réel l'état de mes équipements (CPU, mémoire vive, stockage et flux réseau). Ce projet permet d'obtenir une vision précise des performances du routeur, Switch, Point accès.
 
 ![Schéma de l'architecture Monitoring](/assets/img/Projet/interface.png)
 
