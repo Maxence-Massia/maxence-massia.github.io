@@ -32,4 +32,5 @@ Retrouvez ci-dessous mes derniers rapports d'analyse sur l'évolution de l'IA da
 * 📅 **22/03/2026** : [Analyse : L'AIOps pour la gestion prédictive des réseaux]({% post_url 2026-03-22-veille-ia-aiops-reseau %})
 * 📅 **20/03/2026** : [Analyse : Microsoft Security Copilot et l'admin système]({% post_url 2026-03-20-veille-ia-microsoft-copilot %})
 * 📅 **15/03/2026** : [Analyse : L'IA au service du Phishing (Alertes CERT-FR)]({% post_url 2026-03-15-veille-ia-phishing %})
+
 ---
