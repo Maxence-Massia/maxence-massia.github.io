@@ -42,3 +42,9 @@ J'ai réalisé ces missions dans le respect strict des procédures de sécurité
 | Réalisation | Description technique |
 | :--- | :--- |
 | [![Documentation Cryhod](/assets/img/entreprise/images.png)](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Cryhod) | **Résolution d'incidents cryhod** <br> J'ai traité des tickets DIADEM pour débloquer des postes à la suite de mots de passe expirés. <br> [ Voir la documentation technique](https://github.com/Maxence-Massia/Portfolio/tree/main/Entreprise/Projets_R%C3%A9aliser/Cryhod) |
+
+5. **Gestion de l'Annuaire de Défense (ANNUDEF & OGC)**
+
+| Réalisation | Description technique |
+| :--- | :--- |
+| [![Documentation ANNUDEF](/assets/img/entreprise/Annudef.png)](https://github.com/Maxence-Massia/Portfolio/blob/main/Entreprise/Projets_R%C3%A9aliser/Annudef/README.md) | **Création et activation d'adresses de fonction** <br> Administration des identités fonctionnelles via l'outil ANNUDEF. Gestion de la chaîne complète : analyse des référentiels Excel, création des fiches de fonction et activation technique sur le réseau via le logiciel OGC. <br> [ Voir la documentation technique](https://github.com/Maxence-Massia/Portfolio/blob/main/Entreprise/Projets_R%C3%A9aliser/Annudef/README.md) |
