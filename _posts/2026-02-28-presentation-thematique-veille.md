@@ -16,6 +16,46 @@ Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense 
 
 ---
 
+## 1. Introduction
+Avec l'augmentation des appareils connectés et des cyberattaques, la surveillance humaine ne suffit plus. L'Intelligence Artificielle (IA) est devenue l'outil indispensable de l’administrateur réseau pour protéger les infrastructures modernes.
+
+---
+
+## 2. Une surveillance basée sur le comportement
+La défense traditionnelle repose sur des signatures (bloquer un virus déjà connu). L'IA apporte une approche plus dynamique :
+* **Analyse des habitudes :** L'IA apprend le fonctionnement normal du réseau (ce qu'on appelle un profil type).
+* **Détection d'anomalies :** Elle repère immédiatement ce qui sort de l'ordinaire, comme une connexion inhabituelle en pleine nuit ou un transfert de fichiers trop important vers l'extérieur.
+
+## 3. Anticiper pour ne plus subir
+L'IA permet de passer d'une défense "réactive" à une stratégie d'anticipation :
+* **Veille automatisée :** L'IA trie des milliers d'informations sur le web pour prévenir des nouvelles techniques utilisées par les pirates.
+* **Identification des points faibles :** Elle aide à trouver les failles du système avant qu'elles ne soient exploitées, permettant de les corriger en priorité.
+
+## 4. Une réaction instantanée (Automatisation)
+Face à une attaque, la vitesse est le facteur clé. L'IA permet d'automatiser la réponse :
+* **Blocage immédiat :** Si un comportement dangereux est détecté, l'IA peut isoler l'ordinateur infecté du reste du réseau sans attendre l'intervention d'un technicien.
+* **Gain de temps :** La machine traite l'alerte en quelques millisecondes, là où un humain mettrait plusieurs minutes à réagir.
+
+---
+
+## 5. Limites et rôle de l'informaticien
+Malgré ses performances, l'IA présente des défis :
+1. **Erreurs de diagnostic :** Le risque de bloquer une activité normale par erreur (faux positifs).
+2. **Course à l'armement :** Les attaquants utilisent aussi l'IA pour rendre leurs malwares plus intelligents.
+3. **Supervision :** L'IA reste un assistant. L'informaticien garde le contrôle final sur les décisions stratégiques.
+
+---
+
+## Conclusion
+L'IA ne remplace pas l'administrateur réseau, elle change son rôle. Elle s'occupe de la surveillance de masse et des actions rapides, ce qui permet à l'informaticien de se concentrer sur la gestion globale de la sécurité.
+
+---
+
+### Compétences BTS SIO associées
+* **SISR :** Protection des données, gestion des risques et sécurisation des équipements.
+* **Veille :** Analyse des évolutions technologiques et adaptation aux nouvelles menaces.
+---
+
 ## 🛠️ Méthodologie et Sources
 J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
 
