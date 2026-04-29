@@ -51,11 +51,6 @@ L'IA ne remplace pas l'administrateur réseau, elle change son rôle. Elle s'occ
 
 ---
 
-### Compétences BTS SIO associées
-* **SISR :** Protection des données, gestion des risques et sécurisation des équipements.
-* **Veille :** Analyse des évolutions technologiques et adaptation aux nouvelles menaces.
----
-
 ## 🛠️ Méthodologie et Sources
 J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
 
