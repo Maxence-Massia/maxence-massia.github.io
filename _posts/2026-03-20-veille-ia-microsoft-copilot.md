@@ -14,4 +14,4 @@ tags: [MECM, Microsoft, Administration]
 Microsoft a annoncé pour mars 2026 l'intégration automatique de **Security Copilot** pour les clients. L'outil unifie désormais l'intelligence de Defender et d'Intune (MECM). Il permet aux administrateurs d'utiliser des requêtes en langage naturel pour générer des rapports de conformité ou analyser pourquoi un script PowerShell a échoué sur un parc de machines.
 
 ## Mon analyse
-Utilisant **MECM** au quotidien, cette évolution change ma façon de gérer les incidents. Au lieu de fouiller manuellement dans les fichiers logs (`ccm.log`), je peux demander à l'assistant IA de synthétiser les erreurs de déploiement. C'est un gain de productivité majeur pour maintenir le parc informatique du Ministère à jour.
+L'arrivée de Copilot dans **MECM** marque un tournant pour l'administration de parc. Cette intégration permet de simplifier l'analyse des fichiers logs (`ccm.log`) et de synthétiser instantanément les erreurs de déploiement. C’est une évolution majeure qui transforme la maintenance technique en une tâche assistée, permettant de gagner en réactivité sur la mise à jour des postes de travail.
