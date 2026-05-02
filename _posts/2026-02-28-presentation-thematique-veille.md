@@ -54,7 +54,7 @@ Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'admini
 ### Mes sources et articles de veille (disponibles sur mon blog)
 * [L'IA dans le réseau (AIOps)](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
 * [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
-* [L'arrivée de l'IA dans MECM](https://maxence-massia.github.io/posts/veille-ia-microsoft-copilot/)
+* [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-microsoft-copilot/)
 
 ## 🛠️ Méthodologie et Sources
 J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
