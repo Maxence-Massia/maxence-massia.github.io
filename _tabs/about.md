@@ -6,7 +6,6 @@ order: 1
 
 <div class="row pt-4">
   <div class="col-12 d-flex flex-column flex-md-row align-items-center align-items-md-start mb-5">
-    <img src="/assets/img/entreprise/profils.png" class="rounded-circle shadow mr-md-4 mb-3 mb-md-0" style="width: 150px; height: 150px; object-fit: cover;" alt="Maxence MASSIA">
     <div>
       <h2 class="font-weight-bold mb-1">Maxence MASSIA</h2>
       <p class="text-primary font-weight-bold mb-2">Étudiant en BTS SIO option SISR</p>
