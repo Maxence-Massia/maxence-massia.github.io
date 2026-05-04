@@ -5,7 +5,7 @@ categories: [Veille, Réseau]
 tags: [AIOps, Monitoring, Maintenance]
 ---
 
-#  AIO en 2026 : Vers une automatisation native
+#  L'IA en 2026 : Vers une automatisation native
 
 ## Source de l'article
 [APMdigest : AI-Native Automation Changes Telemetry Pipeline Management in 2026](https://www.apmdigest.com/look-ahead-ai-native-automation-changes-telemetry-pipeline-management-forever-2026)
