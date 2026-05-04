@@ -31,10 +31,10 @@ L'IA est une arme à double tranchant qui modifie radicalement les vecteurs d'at
 * **Des attaques plus crédibles :** Ma veille sur le phishing montre comment l'IA permet aux attaquants de créer des messages parfaits, sans fautes et ultra-personnalisés.
 * **Nécessité d'une défense intelligente :** Face à ces mails indétectables à l'œil nu, les systèmes de défense doivent utiliser l'IA pour analyser le contexte et les liens suspects de manière beaucoup plus fine.
 
-## 4. L'IA comme assistant de productivité (Microsoft Copilot)
-L'intégration de l'IA dans l'environnement de travail change la manière de gérer l'informatique au quotidien :
-* **Assistance technique :** Des outils comme Copilot permettent d'automatiser des tâches répétitives, d'analyser des données ou de générer des scripts de configuration plus rapidement.
-* **Défi de sécurité :** Cette automatisation impose à l'informaticien de surveiller de près la confidentialité des données et la gestion des droits d'accès.
+## 4. L'IA comme assistant de productivité (Claude & Extensions Firefox)
+L'intégration de l'IA dans l'environnement de travail transforme la manière de gérer l'informatique au quotidien :
+* **Optimisation du flux de travail :** L'utilisation de Claude.ai, couplée à des extensions comme la "Claude Sidebar" sur Firefox, permet d'automatiser l'analyse de données et d'obtenir une assistance technique instantanée directement depuis le navigateur.
+* **Défi d'intégration et de sécurité :** Cette omniprésence de l'IA impose à l'informaticien de maîtriser de nouveaux outils d'interface tout en restant vigilant sur la confidentialité des informations partagées avec ces modèles.
 
 ---
 
