@@ -1,11 +1,11 @@
 ---
-title: "Veille IA : L'AIOps pour la gestion prédictive des réseaux"
+title: "Veille IA : L'AI pour la gestion prédictive des réseaux"
 date: 2026-03-22
 categories: [Veille, Réseau]
 tags: [AIOps, Monitoring, Maintenance]
 ---
 
-#  AIOps en 2026 : Vers une automatisation native
+#  AIO en 2026 : Vers une automatisation native
 
 ## Source de l'article
 [APMdigest : AI-Native Automation Changes Telemetry Pipeline Management in 2026](https://www.apmdigest.com/look-ahead-ai-native-automation-changes-telemetry-pipeline-management-forever-2026)
