@@ -11,7 +11,7 @@ image:
 
 # 📡 Ma Veille Technologique
 
-## 🎯 Sujet : L'IA au service de la Cybersécurité (AIOps)
+## 🎯 Sujet : L'IA au service de la Cybersécurité
 Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
 
 ---
@@ -52,7 +52,7 @@ Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'admini
 ---
 
 ### Mes sources et articles de veille (disponibles sur mon blog)
-* [L'IA dans le réseau (AIOps)](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
+* [L'IA dans le réseau](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
 * [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
 * [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-claude-firefox/)
 
