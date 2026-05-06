@@ -12,7 +12,7 @@ image:
 # 📡 Ma Veille Technologique
 
 ## 🎯 Sujet : L'IA au service de l'humain
-Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
+Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et pour permettre l'anticipation des menaces ?
 
 ---
 
@@ -46,17 +46,6 @@ L'analyse de ces trois sujets montre que l'IA ne remplace pas l'administrateur, 
 3. **Éducation :** Il joue un rôle clé dans la sensibilisation des utilisateurs face aux nouvelles menaces (phishing dopé à l'IA).
 
 ---
-
-## Conclusion
-Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'administrateur SIO. Elle permet de passer d'une gestion informatique réactive à une posture proactive, essentielle pour protéger les infrastructures modernes.
-
----
-
-### Mes sources et articles de veille (disponibles sur mon blog)
-* [L'IA dans le réseau](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
-* [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
-* [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-claude-firefox/)
-
 ## 🛠️ Méthodologie et Sources
 J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
 
@@ -64,5 +53,16 @@ J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'in
 * **Actualité IA** : [ActuIA](https://www.actuia.com), [Le Monde Informatique](https://www.lemondeinformatique.fr/intelligence-artificielle-154.html)
 * **Sécurité** : [CERT-FR](https://www.cert.ssi.gouv.fr), [MSRC (Microsoft)](https://msrc.microsoft.com/blog/)
 * **Infrastructure** : [IT-Connect](https://www.it-connect.fr), [Usine Digitale](https://www.usine-digitale.fr)
+
+ ---
+ 
+### Mes sources et articles de veille (disponibles sur mon blog)
+* [L'IA dans le réseau](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
+* [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
+* [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-claude-firefox/)
+ 
+---
+## Conclusion
+Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'administrateur SIO. Elle permet de passer d'une gestion informatique réactive à une posture proactive, essentielle pour protéger les infrastructures modernes.
 
 ---
