@@ -1,0 +1,65 @@
+---
+title: À propos
+icon: fas fa-user
+order: 1
+image:
+  path: /assets/img/veille/copilot-security.png
+  alt: "méthodes de défense des infrastructures avec l'IA"
+---
+
+# 📡 Ma Veille Technologique
+
+## 🎯 Sujet : L'IA au service de l'humain
+Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
+
+---
+
+## 1. Introduction
+Aujourd'hui, l'administrateur réseau doit faire face à des menaces de plus en plus sophistiquées et des infrastructures de plus en plus complexes. Ma veille s'articule autour de trois axes : l'optimisation des opérations réseau (**IA**), l'évolution des cyberattaques (**Phishing**) et les nouveaux outils d'assistance (**Claude**).
+
+---
+
+## 2. L'IA pour une infrastructure intelligente (IA)
+L'évolution du rôle de l'administrateur passe par la maîtrise de l'**IA** pour garantir la disponibilité du réseau :
+* **Analyse comportementale :** Au lieu de simples alertes, l'IA analyse les flux pour détecter des pannes ou des intrusions en comparant l'activité avec les habitudes normales du réseau.
+* **Maintenance prédictive :** L'objectif est d'anticiper les incidents avant qu'ils n'impactent les utilisateurs, transformant la supervision en un système "auto-réparateur".
+
+## 3. Anticiper les nouvelles menaces (IA et Phishing)
+L'IA est une arme à double tranchant qui modifie radicalement les vecteurs d'attaque :
+* **Des attaques plus crédibles :** Ma veille sur le phishing montre comment l'IA permet aux attaquants de créer des messages parfaits, sans fautes et ultra-personnalisés.
+* **Nécessité d'une défense intelligente :** Face à ces mails indétectables à l'œil nu, les systèmes de défense doivent utiliser l'IA pour analyser le contexte et les liens suspects de manière beaucoup plus fine.
+
+## 4. L’IA au service de la cybersécurité (Audit du code de Firefox)
+L’utilisation de modèles de langage avancés comme Claude transforme radicalement la sécurisation des logiciels complexes :
+* **Détection de vulnérabilités critiques :** En analysant le moteur JavaScript de Firefox, l'IA a réussi à identifier des failles de mémoire complexes (notamment de type *Use-After-Free*) qui échappent souvent aux outils d'analyse statique traditionnels.
+* **Génération de preuves exploitables :** Au-delà du diagnostic, l'IA a fourni des cas de tests reproductibles. Cela permet aux ingénieurs de valider instantanément la faille et de développer un correctif précis.
+* **Efficacité face à la complexité :** Cette approche démontre la capacité de l'IA à appréhender des bases de code massives et hétérogènes, offrant un gain de temps majeur pour les équipes de sécurité de Mozilla.
+
+---
+
+## 5. Bilan et rôle de l'informaticien
+L'analyse de ces trois sujets montre que l'IA ne remplace pas l'administrateur, mais modifie ses priorités :
+1. **Gestion des outils :** L'informaticien devient le pilote de systèmes autonomes (IA).
+2. **Expertise critique :** Il doit savoir identifier les erreurs de diagnostic de l'IA (faux positifs).
+3. **Éducation :** Il joue un rôle clé dans la sensibilisation des utilisateurs face aux nouvelles menaces (phishing dopé à l'IA).
+
+---
+
+## Conclusion
+Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'administrateur SIO. Elle permet de passer d'une gestion informatique réactive à une posture proactive, essentielle pour protéger les infrastructures modernes.
+
+---
+
+### Mes sources et articles de veille (disponibles sur mon blog)
+* [L'IA dans le réseau](https://maxence-massia.github.io/posts/veille-ia-aiops-reseau/)
+* [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
+* [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-claude-firefox/)
+
+## 🛠️ Méthodologie et Sources
+J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
+
+### Mes sources principales :
+* **Actualité IA** : [ActuIA](https://www.actuia.com), [Le Monde Informatique](https://www.lemondeinformatique.fr/intelligence-artificielle-154.html)
+* **Sécurité** : [CERT-FR](https://www.cert.ssi.gouv.fr), [MSRC (Microsoft)](https://msrc.microsoft.com/blog/)
+* **Infrastructure** : [IT-Connect](https://www.it-connect.fr), [Usine Digitale](https://www.usine-digitale.fr)
+
