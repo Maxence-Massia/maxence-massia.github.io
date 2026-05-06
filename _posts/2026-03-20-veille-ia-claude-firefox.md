@@ -1,7 +1,7 @@
 ---
 title: "Veille Cybersécurité : Claude (Anthropic) détecte des failles critiques dans Firefox"
 date: 2026-05-02
-categories: [Veille, Cybersécurité]
+categories: [Veille, Claude]
 tags: [Anthropic, Firefox, Bug Bounty, Audit de code]
 ---
 
