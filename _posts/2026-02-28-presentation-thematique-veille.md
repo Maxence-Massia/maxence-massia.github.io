@@ -17,12 +17,12 @@ Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense 
 ---
 
 ## 1. Introduction
-Aujourd'hui, l'administrateur réseau doit faire face à des menaces de plus en plus sophistiquées et des infrastructures de plus en plus complexes. Ma veille s'articule autour de trois axes : l'optimisation des opérations réseau (**AIOps**), l'évolution des cyberattaques (**Phishing**) et les nouveaux outils d'assistance (**Microsoft Copilot**).
+Aujourd'hui, l'administrateur réseau doit faire face à des menaces de plus en plus sophistiquées et des infrastructures de plus en plus complexes. Ma veille s'articule autour de trois axes : l'optimisation des opérations réseau (**IA**), l'évolution des cyberattaques (**Phishing**) et les nouveaux outils d'assistance (**Claude**).
 
 ---
 
-## 2. L'IA pour une infrastructure intelligente (AIOps)
-L'évolution du rôle de l'administrateur passe par la maîtrise de l'**AIOps** pour garantir la disponibilité du réseau :
+## 2. L'IA pour une infrastructure intelligente (IA)
+L'évolution du rôle de l'administrateur passe par la maîtrise de l'**IA** pour garantir la disponibilité du réseau :
 * **Analyse comportementale :** Au lieu de simples alertes, l'IA analyse les flux pour détecter des pannes ou des intrusions en comparant l'activité avec les habitudes normales du réseau.
 * **Maintenance prédictive :** L'objectif est d'anticiper les incidents avant qu'ils n'impactent les utilisateurs, transformant la supervision en un système "auto-réparateur".
 
@@ -40,7 +40,7 @@ L'intégration de l'IA dans l'environnement de travail transforme la manière de
 
 ## 5. Bilan et rôle de l'informaticien
 L'analyse de ces trois sujets montre que l'IA ne remplace pas l'administrateur, mais modifie ses priorités :
-1. **Gestion des outils :** L'informaticien devient le pilote de systèmes autonomes (AIOps).
+1. **Gestion des outils :** L'informaticien devient le pilote de systèmes autonomes (IA).
 2. **Expertise critique :** Il doit savoir identifier les erreurs de diagnostic de l'IA (faux positifs).
 3. **Éducation :** Il joue un rôle clé dans la sensibilisation des utilisateurs face aux nouvelles menaces (phishing dopé à l'IA).
 
