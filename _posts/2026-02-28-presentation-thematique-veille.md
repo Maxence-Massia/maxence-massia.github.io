@@ -11,7 +11,7 @@ image:
 
 # 📡 Ma Veille Technologique
 
-## 🎯 Sujet : L'IA au service de la Cybersécurité
+## 🎯 Sujet : L'IA au service de l'humain
 Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
 
 ---
