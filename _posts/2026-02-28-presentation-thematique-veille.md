@@ -31,10 +31,11 @@ L'IA est une arme à double tranchant qui modifie radicalement les vecteurs d'at
 * **Des attaques plus crédibles :** Ma veille sur le phishing montre comment l'IA permet aux attaquants de créer des messages parfaits, sans fautes et ultra-personnalisés.
 * **Nécessité d'une défense intelligente :** Face à ces mails indétectables à l'œil nu, les systèmes de défense doivent utiliser l'IA pour analyser le contexte et les liens suspects de manière beaucoup plus fine.
 
-## 4. L'IA comme assistant de productivité (Claude & Extensions Firefox)
-L'intégration de l'IA dans l'environnement de travail transforme la manière de gérer l'informatique au quotidien :
-* **Optimisation du flux de travail :** L'utilisation de Claude.ai, couplée à des extensions comme la "Claude Sidebar" sur Firefox, permet d'automatiser l'analyse de données et d'obtenir une assistance technique instantanée directement depuis le navigateur.
-* **Défi d'intégration et de sécurité :** Cette omniprésence de l'IA impose à l'informaticien de maîtriser de nouveaux outils d'interface tout en restant vigilant sur la confidentialité des informations partagées avec ces modèles.
+## 4. L’IA au service de la cybersécurité (Audit du code de Firefox)
+L’utilisation de modèles de langage avancés comme Claude transforme radicalement la sécurisation des logiciels complexes :
+* **Détection de vulnérabilités critiques :** En analysant le moteur JavaScript de Firefox, l'IA a réussi à identifier des failles de mémoire complexes (notamment de type *Use-After-Free*) qui échappent souvent aux outils d'analyse statique traditionnels.
+* **Génération de preuves exploitables :** Au-delà du diagnostic, l'IA a fourni des cas de tests reproductibles. Cela permet aux ingénieurs de valider instantanément la faille et de développer un correctif précis.
+* **Efficacité face à la complexité :** Cette approche démontre la capacité de l'IA à appréhender des bases de code massives et hétérogènes, offrant un gain de temps majeur pour les équipes de sécurité de Mozilla.
 
 ---
 
