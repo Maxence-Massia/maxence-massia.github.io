@@ -1,7 +1,7 @@
 ---
-title: À propos
+title: Veille
 icon: fas fa-user
-order: 1
+order: 2
 image:
   path: /assets/img/veille/copilot-security.png
   alt: "méthodes de défense des infrastructures avec l'IA"
