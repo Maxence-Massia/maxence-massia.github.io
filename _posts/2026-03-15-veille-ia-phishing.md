@@ -1,7 +1,7 @@
 ---
 title: "Veille IA : Une nouvelle ère pour le Phishing"
 date: 2026-03-15
-categories: [Veille, Sécurité]
+categories: [Veille]
 tags: [IA, Phishing, ANSSI]
 ---
 
