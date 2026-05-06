@@ -1,7 +1,7 @@
 ---
 title: "Veille IA : L'AI pour la gestion prédictive des réseaux"
 date: 2026-03-22
-categories: [Veille, Réseau]
+categories: [Veille]
 tags: [AIOps, Monitoring, Maintenance]
 ---
 
