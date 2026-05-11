@@ -1,0 +1,26 @@
+title: "Programme Technique - 2 ans chez H3 Campus"
+date: 2026-05-11 10:00:00 +0100
+categories: [école]
+tags: [H3campus, poissy]
+
+# Cours durant 2 années
+
+---
+
+## Block 1: Support
+* **Data integrity** (Hash SHA-256, sauvegarde, SSH)
+* **Stress Test**, benchmark VM
+* **Projet HA**, Redondance
+
+---
+
+## Block 2: Administration système réseau
+* **Couche réseau, adressage IP** (Modèle OSI, ARP, IP)
+* **Commutation et routage** (Switch, RIP, OSPF, VLAN)
+
+---
+
+## Block 3: Cybersécurité
+* **Formation ANSSI**
+* **Fail2ban, Attaque par dictionnaire**
+* **Sécurité réseau** (Firewall, DMZ, certification X.509, ARP Spoofing)
