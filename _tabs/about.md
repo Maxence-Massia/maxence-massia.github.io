@@ -30,7 +30,7 @@ order: 1
     </div>
     <div class="mb-4">
       <div class="text-primary font-weight-bold">2022 - 2023</div>
-      <h4 class="h5 mb-1">Baccalauréat Pro RISC</h4>
+      <h4 class="h5 mb-1">Baccalauréat Pro SN (RISC)</h4>
       <p class="small text-muted">Saint Erembert, Saint Germain En-Laye</p>
     </div>
   </div>
