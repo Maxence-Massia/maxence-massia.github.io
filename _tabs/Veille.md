@@ -7,9 +7,9 @@ image:
   alt: "méthodes de défense des infrastructures avec l'IA"
 ---
 
-# 📡 Ma Veille Technologique
+# Ma Veille Technologique
 
-## 🎯 Sujet : L'IA au service de l'humain
+## Sujet : L'IA au service de l'humain
 Comment l'Intelligence Artificielle transforme-t-elle les méthodes de défense des infrastructures réseau et l'anticipation des menaces ?
 
 ---
@@ -55,7 +55,7 @@ Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'admini
 * [Le phishing nouvelle génération](https://maxence-massia.github.io/posts/veille-ia-phishing/)
 * [Claude identifie des failles critiques dans Firefox](https://maxence-massia.github.io/posts/veille-ia-claude-firefox/)
 
-## 🛠️ Méthodologie et Sources
+## Méthodologie et Sources
 J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'informations.
 
 ### Mes sources principales :
