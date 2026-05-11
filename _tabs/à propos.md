@@ -41,7 +41,9 @@ order: 1
     <h3 class="border-bottom pb-2 mb-4"><i class="fas fa-briefcase mr-2"></i> Expérience</h3>
     <div class="mb-4">
       <div class="text-primary font-weight-bold">Septembre 2024 - Présent</div>
-      <h4 class="h5 mb-1">Technicien Service Desk (Alternance)</h4>
+      <a href="https://maxence-massia.github.io/posts/missions-ministere/" class="text-decoration-none">
+        <h4 class="h5 mb-1 text-dark" style="cursor: pointer;">Technicien Service Desk (Alternance)</h4>
+      </a>
       <p class="font-weight-bold mb-2">Ministère des Armées</p>
       <ul class="small pl-3 text-muted">
         <li>Gestion et création de comptes via OGC/ANNUDEF.</li>
