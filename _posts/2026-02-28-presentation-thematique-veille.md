@@ -63,6 +63,6 @@ J'utilise l'agrégateur de flux RSS **Feedly** pour centraliser mes sources d'in
  
 ---
 ## Conclusion
-Ma veille démontre que l'IA est devenue le "copilote" indispensable de l'administrateur SIO. Elle permet de passer d'une gestion informatique réactive à une posture proactive, essentielle pour protéger les infrastructures modernes.
+Ma veille démontre que l'IA est devenue indispensable pour l'administrateur SIO. Elle permet de passer d'une gestion informatique réactive à une posture proactive, essentielle pour protéger les infrastructures modernes.
 
 ---
