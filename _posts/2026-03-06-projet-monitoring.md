@@ -82,4 +82,6 @@ En cliquant sur le lien de la cible (Target) dans Prometheus, on accède directe
 
   ---
 
-> **Téléchargement :** Vous pouvez télécharger la [Documentation Technique Complète](/assets/img/Projet/documentation-technique-monitoring.pdf).
+**Téléchargement :** Vous pouvez télécharger la [Documentation Technique Complète](/assets/img/Projet/documentation-technique-monitoring.pdf).
+
+  ---
