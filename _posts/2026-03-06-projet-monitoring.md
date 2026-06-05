@@ -81,3 +81,5 @@ En cliquant sur le lien de la cible (Target) dans Prometheus, on accède directe
 ![Dashboard Grafana SNMP final](/assets/img/Projet/ApSwitch.png)
 
   ---
+
+> **Téléchargement :** Vous pouvez télécharger la [Documentation Technique Complète](/assets/img/Projet/documentation-technique-monitoring.pdf).
